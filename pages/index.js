@@ -63,6 +63,7 @@ export default function Home() {
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
         </a>
+        <div>Created by  <a href='https://ayivugwe.editorx.io/ayivugwekabemba' target='_blank'>Ayivugwe Kabemba</a> </div>
       </footer>
     </div>
   )
